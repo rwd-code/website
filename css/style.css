@@ -306,7 +306,7 @@ pre {
 /* Custom Container */
 @media (min-width: 1220px) {
     .uk-container {
-        max-width: 1150px;
+        max-width: 100%;
     }
 }
 .section-grey {
