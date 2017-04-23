@@ -1,80 +1,4 @@
-/* ------------------------------------------------------------------
- * Indonez      : Altis - Hosting Template
- * File         : style.css
- * Version      : 1.0
- * Author       : Indonez
- * Author URI   : http://indonez.com
- *
- * Indonez Copyright 2016 All Rights Reserved.
- * ------------------------------------------------------------------ */ 
 
-/* ------------------------------------------------------------------
-   
-    [Table of contents]
-    1. Elements
-        1.1. Global
-        1.2. Typhography
-        1.3. Parallax Background 
-    2. Header
-        2.1 Logo
-        2.2 Domain Search Form 
-        2.3 Header Contact
-        2.4 Heaver Navigation
-        2.5 Login Button
-        2.6 Page Title
-        2.7 Slideshow
-    3.  index.html
-        3.1 extras section
-        3.2 pricing section
-        3.3 testimonial section 
-    4.  index2.html
-        4.1. Domain Panel
-        3.4. Testimonial Slider
-        3.5. Features Section
-    5.  index3.html
-        5.1. Domain Search Form
-        5.2. Data Center
-    6.  index4.html
-        6.1. Domain List
-        6.2. App List
-        6.3. Features List
-    7.  shared.html
-        7.1. Pricing Section
-        7.2. Features Tab
-    8.  vps.html
-        8.1. Pricing Section
-        8.2. Web app list
-        8.3. Background Parallax
-        9.1. pricing section 
-    9.  dedicated.html
-        9.1. Pricing Section
-    10. other-services.html
-        10.1. Services List
-        10.2. Background Parallax
-        10.3. Contact Form
-        10.4. Call to Action
-    11. blog.html
-        11.1. Post Styling
-        11.2. Post Types
-        11.3. Post Pagination
-        11.4. Post Share
-        11.5. Post Comment 
-    12. contact.html
-        12.1. Google Map
-        12.2. Heading Map Overlay
-        12.3. Contact Form
-    13. domain-pricing.html
-    14. features.html
-    15. about.html
-    16. testimonial.html
-    17. portfolio.html
-    18. sitemap.html
-    19. 404.html
-    20. client-area.html
-    21. Pre-footer
-    22. Footer
-    
------------------------------------------------------------------- */
 
 
 /* =============================================== [ 1. Elements ] =============================================== */
@@ -413,7 +337,6 @@ pre {
 /* =============================================== [ 2. Header ] =============================================== */
 #idz-header {
     height: 166px;
-    padding-top: 47px;
     padding-bottom: 20px;
 }
 
